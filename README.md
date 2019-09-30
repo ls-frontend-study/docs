@@ -11,7 +11,7 @@
  - 숙제: 주말동안 https://learngitbranching.js.org/ 공부하기
 
 ### 1주차 (2019년 10월 1주차)
- - 개발환경 세팅부터 Vue.JS 라이프사이클까지 (~57p) 공부
+ - 개발환경 세팅부터 Vue.JS 라이프사이클 (~57p)
 
 ## 유용한 링크
  - [어떻게 깃을 사용하는지 빠르게알아봅시다.](https://www.pigno.se/barn/tutorial-git/docs/#/)
