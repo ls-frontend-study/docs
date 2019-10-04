@@ -15,8 +15,9 @@
 
 ## 유용한 링크
  - [어떻게 깃을 사용하는지 빠르게알아봅시다.](https://www.pigno.se/barn/tutorial-git/docs/#/)
+ - [Git1](https://opentutorials.org/module/3733) (동영상 강의)
  - [Learning Git Branching](https://learngitbranching.js.org/)
- - [Vue.JS 공식문서](https://kr.vuejs.org/) - [Vue.JS 공식문서](https://kr.vuejs.org/)
+ - [Vue.JS 공식문서](https://kr.vuejs.org/)
 
 ## 자신의 Git 디렉토리 추가하기
 ```bash
