@@ -1,0 +1,3 @@
+[submodule "firefanda"]
+	path = firefanda
+	url = https://github.com/firefanda/lsware-frontend-study.git

@@ -16,4 +16,12 @@
 ## 유용한 링크
  - [어떻게 깃을 사용하는지 빠르게알아봅시다.](https://www.pigno.se/barn/tutorial-git/docs/#/)
  - [Learning Git Branching](https://learngitbranching.js.org/)
- - [Vue.JS 공식문서](https://kr.vuejs.org/)
+ - [Vue.JS 공식문서](https://kr.vuejs.org/) - [Vue.JS 공식문서](https://kr.vuejs.org/)
+
+## 자신의 Git 디렉토리 추가하기
+```bash
+$ git submodule add [자신의 Git URL] [Github 아이디]
+
+# ex) git submodule add https://github.com/firefanda/lsware-frontend-study firefanda
+```
+ - 관련 문서: https://git-scm.com/book/ko/v2/Git-%EB%8F%84%EA%B5%AC-%EC%84%9C%EB%B8%8C%EB%AA%A8%EB%93%88
