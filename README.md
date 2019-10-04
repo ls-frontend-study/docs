@@ -4,7 +4,7 @@
   - [커피 한 잔 마시며 끝내는 Vue.JS](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791190014397&orderClick=LEa&Kc=)
 
 ## 일정
- - 정규 일정: 매주 화(or 수)요일 / 금요일
+ - 정규 일정: 매주 수요일 / 금요일
 
 ### 0주차 (2019년 9월 4주차)
  - 스터디 시작!
