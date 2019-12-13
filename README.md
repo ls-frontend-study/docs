@@ -6,6 +6,8 @@
 ## 스터디 정리
 <!-- 자신의 개인 저장소 URL 작성 -->
  - [firefanda](https://github.com/firefanda/lsware-frontend-study)
+ - [dancho27](https://github.com/dancho27)
+ - [wjdwlgkgk](https://github.com/wjdwlgkgk)
 
 ## 일정
  - 정규 일정: 매주 수요일 / 금요일
